@@ -1,0 +1,10 @@
+# probe BIOS warning and menus
+300 start
+600 start
+900 coin
+1000 start
+1200 start
+1500 start
+1800 a
+2100 start
+2400 a
